@@ -33,7 +33,7 @@ var isEqual = (obj1, obj2) => {
 }
 console.log(isEqual(obj1, obj2));
 
-//Use the rest countries API url -> https://restcountries.eu/rest/v2/all and display all the country flags,name, region, sub region and
+// 2.Use the rest countries API url -> https://restcountries.eu/rest/v2/all and display all the country flags,name, region, sub region and
 // population in console
 
 
